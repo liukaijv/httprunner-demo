@@ -1,5 +1,7 @@
 # httprunner-demo
 
+> httprunner测试例子
+>
 # 依赖
 
 ```
@@ -10,7 +12,7 @@ pip install httprunner
 
 ```
 
-git clone git@e.coding.net:xixun/tiantianxixun/httprunner-demo.git
+git clone httprunner-demo.git
 
 cd httprunner-demo
 
