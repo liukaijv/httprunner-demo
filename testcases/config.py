@@ -1,3 +1,3 @@
 # 一些公共变量
 
-BASE_URL = "https://api.ttxixun.com/api/v2"
+BASE_URL = "https://api.demo.com/api/v2"

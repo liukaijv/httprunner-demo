@@ -5,3 +5,4 @@ __pycache__/*
 .python-version
 logs/*
 .idea
+.pytest_cache
