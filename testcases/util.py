@@ -58,6 +58,7 @@ def parse_cvs_file(file_name) -> Dict:
 
 def test_parse_cvs():
     ret_list = parse_cvs_file("mobiles.csv")
+    print(ret_list)
     assert len(ret_list) > 1
 
 

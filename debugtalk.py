@@ -82,7 +82,7 @@ def build_upload_data(file_keys: List, codes: List):
     post_data = dict()
     post_data['codeList'] = codes
     post_data['infoList'] = [{'uri': uri, 'title': uri, 'type': 1} for uri in file_keys]
-    return post_data;
+    return post_data
 
 
 def test_build_upload_img():
